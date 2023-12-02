@@ -22,7 +22,9 @@ Référence pour les tokens : [esolangs.org](https://esolangs.org/wiki/Brainfu
 
 ## utilisation
 
-`usage: ouai-ouai-miaou-super [-e expression] [file path]`
+```
+usage: ouai-ouai-miaou-super [-e expression] [file path]
+```
 Si tu utilises des fichiers je recommande de leur donner l’extension `.ouai` c’est pas obligé du tout c’est juste marrant je trouve
 
 ## compilation
@@ -82,7 +84,7 @@ Le concept est identique à [Ook!](https://esolangs.org/wiki/Ook!)
 
 ## traducteur brainfuck -> ouai ouai miaou super
 
-J’en ferai peut-être un plus tard si j’ai pas la flemme
+Oui [y’en a un](https://github.com/Siphonay/bf-to-ooms)
 
 ## licence
 
